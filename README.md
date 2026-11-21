@@ -3,7 +3,7 @@
 Autore(s):
 
 - Briones Sánchez Erick Alan
-- **Esteban** Gallegos Carlos Fabián
+- Esteva Gallegos Carlos Fabián
 - Munive Ramírez Ibrahim
 
 ## Descripción
